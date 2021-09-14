@@ -1,0 +1,3 @@
+Tendo os valores: A X C S E R H, qual sequência produz o melhor resultado quando inserido em uma arvore binária de busca?
+
+R.: Qualquer um que comece com H, tenha o C antes do A e E, e o S antes de R e X

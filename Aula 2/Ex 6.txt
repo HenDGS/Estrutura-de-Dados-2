@@ -1,0 +1,19 @@
+Sobre árvores binárias, considere as afirmativas a seguir
+
+.I. Qualquer nó de uma árvore binária é raiz de, no máximo, outras duas subárvores comumente denominadas subárvore direita e subárvore esquerda.
+
+II. Uma dada árvore binária A armazena números inteiros e nela foram inseridos 936 valores não repetidos. Para determinar se um número x está entre os elementos dessa árvore, tal número será comparado, no máximo, com 10 números contidos na árvore A.
+
+III. Uma dada árvore binária de busca A armazena números inteiros e nela foram inseridos 936 valores não repetidos. Para determinar se um número x está entre os elementos dessa árvore, serão feitas, no máximo, 10 comparações.
+
+IV. Uma dada árvore binária de busca A armazena números inteiros e nela foram inseridos 936 valores não repetidos. Supondo que r seja o nó raiz da árvore A e que sua subárvore esquerda contenha 460 elementos e sua subárvore direita possua 475 elementos. Para determinar se um número x pertence a essa árvore, serão feitas, no máximo, 476 comparações. 
+
+Assinale a alternativa correta.
+
+a) Somente as afirmativas I e II são corretas.
+b) Somente as afirmativas I e IV são corretas.
+c) Somente as afirmativas III e IV são corretas.
+d) Somente as afirmativas I, II e III são corretas.
+e) Somente as afirmativas II, III e IV são corretas. 
+
+Resposta: B, pois uma árvore binária não pode ter mais de 2 subárvores, e o último elemnto dela é o 475
